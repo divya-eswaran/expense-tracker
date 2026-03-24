@@ -24,8 +24,3 @@ Tech used:
   
    *Javascript
 
-Tools:
-
-   *VS Code
-
-  *Git
